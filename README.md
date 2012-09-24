@@ -1,4 +1,4 @@
-jq-classList
+jq-classlist
 ============
 
 jQuery class name manipulation helpers.
