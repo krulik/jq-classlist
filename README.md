@@ -10,6 +10,6 @@ var classList = $("body");
 
 removeClassLike usage:
 ============
-<div class="sidebar span5">..</div>
+&ltdiv class="sidebar span5"&gt...&lt/div&gt
 $(".sidebar").removeClassLike("span");
-// <div class="sidebar">..</div>
+// &ltdiv class="sidebar"&gt..&lt/div&gt
